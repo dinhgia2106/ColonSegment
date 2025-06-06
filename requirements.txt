@@ -16,6 +16,7 @@ seaborn
 numpy==1.26.4 
 tqdm>=4.62.0
 scipy>=1.7.0
+pandas==2.2.3 --only-binary=all
 
 # MMCV
 mmcv==2.2.0 -f https://download.openmmlab.com/mmcv/dist/cu118/torch2.1/index.html
